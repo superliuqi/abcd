@@ -14,6 +14,6 @@ class GitController extends Controller
 
     public function t1()
     {
-        echo 't1';
+        echo 'name liuqi';
     }
 }
