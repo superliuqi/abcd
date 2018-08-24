@@ -10,4 +10,9 @@ class GitController extends Controller
     {
         exec('cd /data/wwwroot/default/abcd && git pull');
     }
+
+    public function tt()
+    {
+        echo 1;
+    }
 }
