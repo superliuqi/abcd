@@ -12,8 +12,8 @@ class GitController extends Controller
         print_r($log);
     }
 
-    public function tt123()
+    public function t()
     {
-        echo 1234567;
+        echo 't';
     }
 }
