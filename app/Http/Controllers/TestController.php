@@ -10,6 +10,6 @@ class TestController extends Controller
 
     public function test()
     {
-        echo 'done';
+        echo 'done123';
     }
 }
