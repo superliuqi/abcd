@@ -14,11 +14,6 @@ class GitController extends Controller
 
     public function tt123()
     {
-        echo 'abcdefg124';
-    }
-
-    public function test()
-    {
-        
+        echo 1234567;
     }
 }
