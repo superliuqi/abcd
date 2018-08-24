@@ -16,4 +16,9 @@ class GitController extends Controller
     {
         echo 'abcdefg124';
     }
+
+    public function test()
+    {
+        
+    }
 }
