@@ -8,8 +8,8 @@ class TestController extends Controller
 {
 
 
-    public function test123()
+    public function test()
     {
-
+        echo 'done';
     }
 }
